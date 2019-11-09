@@ -10,5 +10,11 @@
 
 咸鱼大佬，明明白白，KB网站：[https://zkillboard.com/](https://zkillboard.com/)
 
+官方APP，可以APP挂技能：
+
+          ios：EVE portal 2019   
+
+         android：请用google play搜索EVE portal 2019
+
 
 
