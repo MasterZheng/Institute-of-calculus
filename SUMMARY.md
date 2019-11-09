@@ -14,6 +14,9 @@
   * [3.进阶新船](ch2/ishtar.md)
   * [4.预警软件](ch2/warning.md)
 * [第三部分 买买买](ch3/README.md)
+  * [1.邮件列表](ch3/mail.md)
+  * [2.快递](ch3/express.md)
+  * [3.采购小号](ch3/jitaCharacter.md)
 * [第四部分 参与战争](ch4/README.md)
 * [第五部分 指点江山](ch5/README.md)
 
