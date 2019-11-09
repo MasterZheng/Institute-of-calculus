@@ -4,7 +4,7 @@
 
 左侧找到绑定QQ
 
-
+![](../.gitbook/assets/bindqq.png)
 
 完成绑定后，加入下面的推荐群：凛冬集结通知群
 
