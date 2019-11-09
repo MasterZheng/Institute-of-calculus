@@ -2,7 +2,7 @@
 
 公司名称 Institute of calculus
 
- 游戏中按alt+e
+游戏中按alt+e
 
 ![](../.gitbook/assets/jia-ru-gong-si.png)
 
