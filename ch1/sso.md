@@ -9,5 +9,8 @@
 * 打开网页[https://seat.eve-info.net](https://seat.eve-info.net)
 * 登录你的eve账号
 * 会看到一个很长的页面，选好你的角色，拉到最下面，蓝色按钮 AUTHORIZE
+
+  ![](../.gitbook/assets/ti-jiao-sso.png)
+
 * Ok，完成了，请在群里告诉我们，你提交了SSO！
 
