@@ -10,6 +10,8 @@
 
 咸鱼大佬，明明白白，KB网站：[https://zkillboard.com/](https://zkillboard.com/)
 
+EVE百科，数据略陈旧，可以参考：[https://wiki.eveuniversity.org/Main\_Page](https://wiki.eveuniversity.org/Main_Page)
+
 官方APP，可以APP挂技能：
 
           ios：EVE portal 2019   
