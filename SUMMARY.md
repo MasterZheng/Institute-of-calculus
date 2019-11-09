@@ -12,5 +12,5 @@
 * [第二部分 刷刷刷的幸福生活](ch2/part2.md)
   * [1.挂机刷怪](ch2/farm.md)
   * [2.死亡交易](ch2/escalation.md)
-  * [3.进阶新船](ch2/jishtar.md)
-  * [4.预警软件](ch2/sso.md)
+  * [3.进阶新船](ch2/ishtar.md)
+  * [4.预警软件](ch2/warning.md)
