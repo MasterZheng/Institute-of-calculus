@@ -17,6 +17,6 @@
   * [1.邮件列表](ch3/mail.md)
   * [2.快递](ch3/express.md)
   * [3.采购小号](ch3/jitacharacter.md)
-* [第四部分 参与战争](ch4.md)
-* [第五部分 指点江山](ch5.md)
+* [第四部分 参与战争](ch4/README.md)
+* [第五部分 指点江山](ch5/README.md)
 
