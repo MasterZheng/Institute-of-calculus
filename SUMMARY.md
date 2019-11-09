@@ -14,3 +14,7 @@
   * [2.死亡交易](ch2/escalation.md)
   * [3.进阶新船](ch2/ishtar.md)
   * [4.预警软件](ch2/warning.md)
+
+* [第三部分 买买买](ch3/shopping.md)
+* [第四部分 参与战争](ch4/war.md)
+* [第五部分 指点江山](ch5/just_joking.md)
