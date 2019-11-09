@@ -7,7 +7,6 @@
       * [4.提交SSO](ch1/sso.md)
       * [5.学习技能](ch1/skills.md)
       * [6.前往驻地](ch1/base.md)
- * [第一讲：从现实问题到学科信息](ch1/README.md)
 
  * [备注](ps/handbooks.md)
  * [参考文献](ps/ref.md)
