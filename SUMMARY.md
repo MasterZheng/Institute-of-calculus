@@ -18,5 +18,9 @@
   * [2.快递](ch3/express.md)
   * [3.采购小号](ch3/jitacharacter.md)
 * [第四部分 参与战争](ch4/README.md)
+  * [1.加入集结群](ch4/authorizeQQ.md)
+  * [2.准备战舰](ch4/prepare.md)
+  * [3.配置mumble](ch4/mumble.md)
+  * [4.补损](ch4/srp.md)
 * [第五部分 指点江山](ch5/README.md)
 
