@@ -10,6 +10,7 @@
   * [6.前往驻地](ch1/base.md)
 * [第二部分 刷刷刷的幸福生活](ch2/README.md)
   * [1.挂机刷怪](ch2/farm.md)
+  * [2.打捞残骸](ch2/salvage.md)
   * [3.死亡交易](ch2/escalation.md)
   * [4.进阶新船](ch2/ishtar.md)
   * [5.预警软件](ch2/warning.md)
