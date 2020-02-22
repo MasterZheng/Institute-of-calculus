@@ -20,7 +20,7 @@
 
      Days to complete里填入：14
 
-     点击Est.Price，获得快递估价，粘贴在Description中，修改Collateral中数值为0
+     点击Est.Price，获得快递估价，这也是保证金，如果快递翻车，你会收到Collateral金额的赔偿金。（可以适当写高一点哦）
 
 ![](../.gitbook/assets/contractoption.png)
 
