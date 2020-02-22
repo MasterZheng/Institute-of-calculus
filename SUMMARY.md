@@ -15,7 +15,7 @@
   * [4.进阶新船](ch2/ishtar.md)
   * [5.预警软件](ch2/warning.md)
   * [6.信号小死亡](ch2/signal.md)
-  * [Untitled](ch2/untitled.md)
+  * [7.种菜](ch2/untitled.md)
 * [第三部分 买买买](ch3/README.md)
   * [1.邮件列表](ch3/mail.md)
   * [2.快递](ch3/express.md)
