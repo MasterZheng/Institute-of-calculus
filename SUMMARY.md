@@ -16,6 +16,7 @@
   * [5.预警软件](ch2/warning.md)
   * [6.信号小死亡](ch2/signal.md)
   * [7.种菜](ch2/untitled.md)
+  * [8.10-10新人教程](ch2/8.1010-xin-ren-jiao-cheng.md)
 * [第三部分 买买买](ch3/README.md)
   * [1.邮件列表](ch3/mail.md)
   * [2.快递](ch3/express.md)
