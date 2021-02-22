@@ -2,21 +2,23 @@
 
 云玩家什么的最好了！不上线就不会炸船！
 
+[WC联盟Wiki](https://wiki.winterco.org)
 
+[WC联盟论坛](https://forums.winterco.org/)
 
-天下大势，一图掌握，eve势力图：[https://sov.space/](https://sov.space/)
+[eve势力地图](https://sov.space/)
 
-商品物价，一网打尽，web市场：[https://evemarketer.com/](https://evemarketer.com/)
+[web市场](https://evemarketer.com/)
 
-咸鱼大佬，明明白白，KB网站：[https://zkillboard.com/](https://zkillboard.com/)
+[KB网站](https://zkillboard.com/)
 
-EVE百科，数据略陈旧，可以参考：[https://wiki.eveuniversity.org/Main\_Page](https://wiki.eveuniversity.org/Main_Page)
+[EVE Wiki](https://wiki.eveuniversity.org/Main_Page)
 
 官方APP，可以APP挂技能：
 
-          ios：EVE portal 2019   
+ios：EVE portal 
 
-         android：请用google play搜索EVE portal 2019
+android：请用google play搜索EVE portal
 
 
 

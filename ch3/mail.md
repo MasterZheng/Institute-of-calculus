@@ -6,9 +6,9 @@
 
 日常买卖交易都可以在这里完成 
 
-          WTS = 想要出售 
+* WTS = 想要出售 
 
-          WTB = 想要购买
+* WTB = 想要购买
 
 ![](../.gitbook/assets/osypub.png)
 
