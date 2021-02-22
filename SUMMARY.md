@@ -27,5 +27,6 @@
   * [3.配置mumble](ch4/mumble.md)
   * [4.补损](ch4/srp.md)
 * [第五部分 指点江山](ch5.md)
+* [第六部分 常见术语](ch5.md)
 * [相关教程](related.md)
 
