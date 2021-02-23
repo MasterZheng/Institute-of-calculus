@@ -14,6 +14,10 @@
 
 [EVE Wiki](https://wiki.eveuniversity.org/Main_Page)
 
+[DScan](https://dscan.info/)
+
+[估价网](http://evepraisal.com/)
+
 官方APP，可以APP挂技能：
 
 ios：EVE portal 

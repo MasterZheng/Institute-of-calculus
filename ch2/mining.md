@@ -19,6 +19,25 @@
 * 曾经稳定的矿石产出
 * 在官方的疯狂削弱后，矿石大幅度减少
 ****
+**矿石翻译：**
+
+* 常见普矿： 
+  * Mercoxit基腹断岩
+  * Spodumain灰岩
+  * Gneiss片麻岩
+  * Arkonor艾克诺岩
+  * Crokite克洛基石
+  * Bistot斜岩
+* 月矿： 
+
+| 月矿等级 |                    |                    |                    |                 |        
+| :----:  | :----              | :----              | :----              | :----              |
+| R64     | Xenotime 磷钇矿    |  Monazite 独居石   | Loparite 铈铌钙钛矿 | Ytterbite 硅铍钇矿|
+| R32     | Carnotite 钒钾铀矿 |  Zircon 锆石       | Pollucite 铯榴石    | Cinnabar 朱砂     |
+| R16     | Otavite 菱镉矿     |  Sperrylite 砷铂矿 | Vanadinite 钒铅矿   | Chromite 铬铁矿   |
+| R8      | Cobaltite 钴酸盐   |  Euxenite 黑稀金矿 | Titanite 榍石       | Scheelite 白钨矿  |
+| R4      | Zeolites 沸石      |  Sylvite 钾盐      | Bitumens 沥青       | Coesite 柯石英    |
+****
 **请遵守联盟挖矿规定**
 
 **最新规定见联盟论坛**
