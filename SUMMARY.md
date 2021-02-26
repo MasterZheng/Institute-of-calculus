@@ -18,6 +18,7 @@
   * [7.种菜](ch2/untitled.md)
   * [8.挖矿](ch2/mining.md)
   * [9.任务](ch2/mission.md)
+  * * [9.1 燃烧团队](ch2/burner.md)
 * [第三部分 买买买](ch3/README.md)
   * [1.合同](ch3/contract.md)
   * [2.邮件列表](ch3/mail.md)
